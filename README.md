@@ -1,4 +1,5 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil do Leonardo-Paiva-Martins
+ 😁
 
  <div>
    <a href="https://github.com/Leonardo-Paiva-Martins">
@@ -14,7 +15,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Pra conteúdo sobre programação me segue nas redes abaixo!
  
 <div> 
   <a href="https://www.instagram.com/lionleoheart" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -22,8 +23,6 @@
   <a href = "mailto:leonardo_paiva.martins@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonardo-paiva-5411a5136" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Leonardo-Paiva-Martins
-/Leonardo-Paiva-Martins
-/blob/output/github-contribution-grid-snake.svg)
+  
 
 </div>
